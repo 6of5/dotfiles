@@ -1,0 +1,7 @@
+.DS_Store
+*.swp
+.*.un~
+*~
+*.lock
+id_rsa*
+known_hosts

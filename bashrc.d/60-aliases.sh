@@ -1,5 +1,4 @@
 # All aliases in here
-alias vi=vim
 alias branch='git checkout -b'
 
 # Show directory symbol (/) and hidden directories
